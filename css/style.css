@@ -4,7 +4,7 @@
   font-family: "HelveticaBold";
   font-display: swap;
   src: url("../fonts/HelveticaBold.woff") format("woff"), url("../fonts/HelveticaBold.woff2") format("woff2");
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
 }
 
@@ -1530,13 +1530,17 @@ body.ie ._ibg img {
   padding: 0px 30px 0px 0px;
 }
 
-.content-prizes-info-text__text {
+.content-prizes-info-text__text p {
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
   line-height: 24px;
   /* or 120% */
   color: #303030;
+}
+
+.content-prizes-info-text__text span {
+  text-decoration: underline;
 }
 
 @media (min-width: 991.98px) {
@@ -2104,7 +2108,7 @@ body.ie ._ibg img {
   .content-prizes-info__subtext {
     margin: 0px auto;
     padding: 0px 0px 10px 0px;
-    max-width: 228px;
+    max-width: 220px;
   }
 
   .content-prizes-info__subtext p {
@@ -2116,7 +2120,7 @@ body.ie ._ibg img {
   .content-prizes-info__thretext {
     margin: 0px auto;
     padding: 0px 0px 10px 0px;
-    max-width: 190px;
+    max-width: 210px;
   }
 
   .content-prizes-info__thretext p {
@@ -2128,7 +2132,7 @@ body.ie ._ibg img {
   .content-prizes-info__fourtext {
     margin: 0px auto;
     padding: 0px 0px 10px 0px;
-    max-width: 150px;
+    max-width: 216px;
   }
 
   .content-prizes-info__fourtext p {
@@ -2174,9 +2178,13 @@ body.ie ._ibg img {
   }
 
   .content-prizes-info-text__text {
+    padding: 0px 0px 15px 0px;
+    max-width: 200px;
+  }
+
+  .content-prizes-info-text__text p {
     font-size: 12px;
     line-height: 16px;
-    padding: 0px 0px 15px 0px;
   }
 }
 
