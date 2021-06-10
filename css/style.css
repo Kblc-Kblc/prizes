@@ -1323,8 +1323,8 @@ body.ie ._ibg img {
 
 .img-prizes-abs__peace {
   position: absolute;
-  right: -11%;
-  bottom: 126%;
+  right: -6%;
+  bottom: 131%;
   z-index: 2;
 }
 
@@ -1347,7 +1347,7 @@ body.ie ._ibg img {
 
 .img-prizes-abs__orange-b {
   position: absolute;
-  right: -44%;
+  right: -35%;
   top: -42%;
   z-index: 2;
 }
@@ -1359,8 +1359,8 @@ body.ie ._ibg img {
 
 .img-prizes-abs__orange-l {
   position: absolute;
-  right: -36%;
-  bottom: 84%;
+  right: -22%;
+  bottom: 86%;
   z-index: 2;
 }
 
@@ -1456,7 +1456,7 @@ body.ie ._ibg img {
 }
 
 .content-prizes-info__thretext {
-  max-width: 460px;
+  max-width: 490px;
   padding: 0px 0px 30px 0px;
 }
 
@@ -1470,7 +1470,7 @@ body.ie ._ibg img {
 }
 
 .content-prizes-info__fourtext {
-  max-width: 487px;
+  max-width: 496px;
   padding: 0px 0px 30px 0px;
 }
 
@@ -1519,7 +1519,7 @@ body.ie ._ibg img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  max-width: 540px;
+  max-width: 590px;
   padding: 30px 0px 15px 0px;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -2011,7 +2011,7 @@ body.ie ._ibg img {
   }
 
   .img-prizes-abs__orange-b {
-    right: -15%;
+    right: -20%;
     top: 49%;
   }
 
@@ -2042,7 +2042,7 @@ body.ie ._ibg img {
 
   .img-prizes-abs__orange-three {
     top: 68%;
-    left: 98%;
+    left: 103%;
   }
 
   .img-prizes-abs__orange-three img {
