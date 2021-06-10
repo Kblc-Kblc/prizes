@@ -1324,7 +1324,7 @@ body.ie ._ibg img {
 .img-prizes-abs__peace {
   position: absolute;
   right: -11%;
-  bottom: 145%;
+  bottom: 126%;
   z-index: 2;
 }
 
@@ -1336,7 +1336,7 @@ body.ie ._ibg img {
 .img-prizes-abs__love {
   position: absolute;
   left: -7%;
-  bottom: 145%;
+  bottom: 119%;
   z-index: 2;
 }
 
@@ -1348,7 +1348,7 @@ body.ie ._ibg img {
 .img-prizes-abs__orange-b {
   position: absolute;
   right: -44%;
-  top: -60%;
+  top: -42%;
   z-index: 2;
 }
 
@@ -1360,25 +1360,25 @@ body.ie ._ibg img {
 .img-prizes-abs__orange-l {
   position: absolute;
   right: -36%;
-  bottom: 108%;
+  bottom: 84%;
   z-index: 2;
 }
 
 .img-prizes-abs__blue {
   position: absolute;
   left: -7%;
-  bottom: 131%;
+  bottom: 103%;
   z-index: 2;
 }
 
 .img-prizes-abs__orange-three {
   position: absolute;
-  left: 39%;
-  top: -89%;
+  left: 34%;
+  top: -74%;
 }
 
 .content-prizes {
-  padding: 0px 0px 118px 0px;
+  padding: 0px 0px 30px 0px;
 }
 
 .content-prizes__row {
