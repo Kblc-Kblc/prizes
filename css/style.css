@@ -1986,6 +1986,7 @@ body.ie ._ibg img {
 
   .img-prizes__title {
     display: block;
+    text-align: center;
   }
 
   .img-prizes-abs__peace {
